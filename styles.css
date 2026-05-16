@@ -1,0 +1,9 @@
+
+/*  Exemplo de variaveis - personalizar conforme necessario */
+
+:root {
+  --cor-branca: #ffffff;
+  --cor-principal: #3498db;   /* azul */
+  --cor-secundaria: #2ecc71;  /* verde */
+  --cor-warning: #e74c3c;     /* vermelho */
+}
